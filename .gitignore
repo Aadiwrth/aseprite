@@ -18,3 +18,5 @@ build
 .build
 .deps
 CMakeSettings.json
+build-*
+aseprite-release
