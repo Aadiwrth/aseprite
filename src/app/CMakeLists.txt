@@ -376,6 +376,7 @@ target_sources(app-lib PRIVATE
   color_utils.cpp
   commands/apply.cpp
   commands/cmd_about.cpp
+  commands/cmd_auto_update.cpp
   commands/cmd_add_color.cpp
   commands/cmd_advanced_mode.cpp
   commands/cmd_background_from_layer.cpp
